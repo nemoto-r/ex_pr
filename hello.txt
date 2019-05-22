@@ -1,6 +1,3 @@
 commit
 hello.txt
 abc
-aaaaaaaaa
-b1017220
-good game
